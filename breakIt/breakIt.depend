@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1501884454 source:c:\users\csabika\downloads\breakit\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<time.h>
+
+1501945205 source:c:\users\csabika\downloads\breakit\breakit\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<windows.h>
+	<time.h>
+
