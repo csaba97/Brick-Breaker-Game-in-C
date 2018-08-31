@@ -1,6 +1,6 @@
 # Brick Breaker Game in C
 ### About 
-This is a simple brick breaker game developed for Windows(it uses `windows.h>`).
+This is a simple brick breaker game developed for `Windows` (it uses `windows.h>`).
 [Check out this short video on YouTube](https://www.youtube.com/watch?v=nHWrK1OB5rA&feature=youtu.be)  
 > Note: the game was made as a university project so the name of variables and comments are in Romanian and not English
 
